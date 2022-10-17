@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{11:function(e,n,t){"use strict";t.r(n);var r=t(0),o=t.n(r),a=t(2),c=function(){return o.a.createElement("div",null,o.a.createElement("h1",null,"GPT-3"))};t.n(a).a.render(o.a.createElement(c,null),document.getElementById("root"))},3:function(e,n,t){e.exports=t(11)}},[[3,2,1]]]);
+//# sourceMappingURL=main.7f57956c.chunk.js.map
